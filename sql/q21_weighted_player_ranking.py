@@ -1,0 +1,5 @@
+print("\nQ21 - Weighted Player Ranking")
+print("-" * 90)
+print("Cannot be fully calculated from the current dataset.")
+print("Reason: fielding statistics are not stored.")
+print("Required fields: catches, stumpings")
